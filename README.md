@@ -40,17 +40,23 @@ Ranking based on return, risk, and consistency
 Investment trend analysis
 
 📊 Dashboard Preview
+<img width="1441" height="810" alt="Screenshot 2026-04-01 111314" src="https://github.com/user-attachments/assets/ce813dcd-c1c4-4767-b3d9-2eb0ca9c992c" />
+
 
 
 🚀 How to Run
 1️⃣ Clone the Repository
 git clone https://github.com/Atimarajoria/Mutual---Fund-Analysis-Dashboard.git
+
 2️⃣ Install Dependencies
 pip install pandas numpy matplotlib scikit-learn
+
 3️⃣ Run Jupyter Notebook
 jupyter notebook
+
 4️⃣ Open Power BI Dashboard
 Open .pbix file in Power BI Desktop
+
 📁 Dataset
 Contains multiple mutual fund schemes with attributes like:
 Returns
@@ -58,24 +64,24 @@ Expense Ratio
 Fund Category
 Risk Level
 AUM (Assets Under Management)
+
 📈 Key Insights
 Equity funds generally show higher returns but higher risk
 Expense ratio significantly impacts long-term gains
 Diversified funds provide better stability
 SIP investments help in risk averaging over time
+
 💡 Use Cases
 Investment analysis
 Portfolio optimization
 Financial research
 Data analytics portfolio project
-🤝 Contributing
 
+🤝 Contributing
 Contributions are welcome!
 Feel free to fork this repo and submit a pull request.
 
 📬 Contact
-
 Atima Rajoria
-
 LinkedIn: https://www.linkedin.com/in/atima-rajoria-1bb514246
 GitHub: https://github.com/Atimarajoria
